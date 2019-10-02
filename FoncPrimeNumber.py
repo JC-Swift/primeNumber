@@ -59,7 +59,3 @@ def PrimeNumber():
     resultatTime = tempsEnd - tempsStart
     print("Le temps écoulé est de : " , resultatTime,"\n ")
     print("FIN DE LA FONCTION 'PrimeNumber': \n")
-
-def puissance(number = 4 ,puissance = 6):
-    resultat = number ** puissance
-    print(resultat)
