@@ -1,0 +1,3 @@
+import FoncPrimeNumber
+
+FoncPrimeNumber.PrimeNumber()
